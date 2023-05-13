@@ -52,5 +52,5 @@ macOS
 
 manjaro Linux
 > debtap -q ~/下载/obs-multi-rtmp-0.3.0.1-linux-x86_64.deb
-
+> sudo pacman -U ~/下载/obs-multi-rtmp-0.3.0.2-1-x86_64.pkg.tar.zst
 > mv /usr/lib/x86_64-linux-gnu/obs-plugins/obs-multi-rtmp.so /usr/lib/obs-plugins/
